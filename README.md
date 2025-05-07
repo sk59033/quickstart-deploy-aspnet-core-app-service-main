@@ -1,0 +1,1 @@
+# sk59033-quickstart-deploy-aspnet-core-app-service-main
